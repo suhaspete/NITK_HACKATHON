@@ -1,6 +1,6 @@
 # NITK_HACKATHON
 
-#1
+##1
 
 J.A.R.V.I.S - Voice Assistant with WolframAlpha Integration
 J.A.R.V.I.S (Just A Rather Very Intelligent System) is a voice-activated assistant built using Python. The assistant responds to voice commands, provides answers to queries using WolframAlpha, and can convert text to speech for seamless interaction.
@@ -104,7 +104,7 @@ Open a pull request.
 
 
 
-#2
+##2
 
 
 AI-Powered Emotion-Aware Interview System
@@ -185,7 +185,7 @@ Verify your Gemini API key and replace it if necessary.
 
 
 
-#3
+##3
 PocketPal AI: Your Autonomous Data Engine ⚙️💡
 PocketPal AI operates as a standalone intelligence core, designed for seamless execution on local systems. With its compact framework, PocketPal AI eliminates reliance on external servers, granting full operational independence across devices running iOS or Android.
 
