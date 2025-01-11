@@ -12,12 +12,15 @@ Text-to-Speech: Converts responses to audio using gTTS (Google Text-to-Speech).
 WolframAlpha Integration: Retrieves detailed answers to user queries from WolframAlpha's knowledge base.
 Error Handling: Handles errors gracefully, ensuring a smooth user experience.
 Exit Command: Easily terminate the program by saying "exit."
+
 🛠️ Technologies Used
 Python: Core programming language.
 gTTS: For generating speech from text.
 Playsound: For playing audio responses.
 SpeechRecognition: For processing user voice input.
 WolframAlpha API: For fetching answers to user queries.
+
+
 🚀 Getting Started
 Follow these steps to set up and run the project on your local machine.
 
@@ -26,6 +29,9 @@ Python 3.x installed on your system.
 WolframAlpha API Key:
 Sign up at WolframAlpha Developer Portal.
 Create an app and obtain your unique API key.
+
+
+
 Installation
 Clone the repository:
 bash
@@ -42,6 +48,10 @@ Replace the placeholder key with your API key:
 python
 Copy code
 client = wolframalpha.Client("YOUR_API_KEY")
+
+
+
+
 📖 How to Use
 Run the script:
 bash
@@ -69,14 +79,7 @@ WolframAlpha query errors:
 
 Verify your API key is correct and active.
 Ensure your query is valid and understandable.
-📂 Directory Structure
-bash
-Copy code
-voice-assistant/
-├── app.py               # Main script
-├── requirements.txt     # Python dependencies
-└── README.md            # Project description
-🤝 Contributing
+
 Contributions are welcome! Feel free to:
 
 Report issues.
