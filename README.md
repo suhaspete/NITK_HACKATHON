@@ -17,6 +17,11 @@ Exit Command: Easily terminate the program by saying "exit."
 
 🛠️ Technologies Used
 
+Python: Core programming language.
+gTTS: For generating speech from text.
+Playsound: For playing audio responses.
+SpeechRecognition: For processing user voice input.
+WolframAlpha API: For fetching answers to user queries.
 
 
 
