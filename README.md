@@ -1,7 +1,7 @@
 # NITK_HACKATHON
 
 ##1
-JARVIS - Your Personal Assistant 🤖
+**JARVIS - Your Personal Assistant 🤖**
 Welcome to JARVIS, your very own personal assistant! Inspired by the iconic AI from the Marvel universe, JARVIS is designed to help you with general knowledge queries, math calculations, science questions, and more. Whether you interact with it through voice commands or a chat interface, JARVIS is here to make your life easier. 🚀
 
 Features ✨
@@ -66,31 +66,46 @@ Libraries: Install the required Python libraries:
 
 bash
 Copy
+
 pip install speechrecognition gtts wolframalpha playsound flask
+
+
 WolframAlpha API Key: Sign up for a free API key at WolframAlpha.
 
 Microphone: Ensure your system has a working microphone.
 
 Running the Project
+
+
 Clone this repository:
 
 bash
 Copy
+```
 git clone https://github.com/your-username/jarvis.git
 cd jarvis
+```
 Replace "YOUR_WOLFRAM_ALPHA_API_KEY" in the Python script with your actual API key.
 
 Run the  script:
 
 bash
 Copy
+```
 python jarvis.py
+```
+
+
 JARVIS will greet you and start listening for your commands. 🎉
+
+
+https://github.com/user-attachments/assets/c2befade-ab6f-4e2a-af75-0f392a7acf20
+
+
 
 ##2
 
-
-AI-Powered Emotion-Aware Interview System
+**AI-Powered Emotion-Aware Interview System**
 AI-Powered Emotion-Aware Interview System is an innovative tool that uses artificial intelligence to simulate an interview environment. The system evaluates candidates based on their verbal responses and emotional expressions, offering detailed feedback to help them prepare for real-world interviews.
 
 🎯 Features
@@ -213,6 +228,10 @@ License & Attribution
 This system operates under open-access licensing models. Special acknowledgments to foundational technologies like llama.cpp and llama.rn.
 
 End transmission.
+
+
+
+https://github.com/user-attachments/assets/652946e5-a4ca-4c3b-87c2-10d18dd577d0
 
 
 
