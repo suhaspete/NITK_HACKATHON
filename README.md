@@ -110,8 +110,8 @@ AI-Powered Emotion-Aware Interview System is an innovative tool that uses artifi
 
 🎯 Features
 Emotion Detection: Uses advanced facial emotion recognition to analyze the candidate's emotional state during responses.
-Generative AI for Interview Questions: Leverages Google's Gemini API to generate tailored and professional interview questions based on the job title.
-Speech-to-Text: Converts the candidate's verbal responses into text using Google Speech Recognition.
+Generative AI for Interview Questions: Leverages plotach API to generate tailored and professional interview questions based on the job title.
+Speech-to-Text: Converts the candidate's verbal responses into text using Speech Recognition.
 Answer Evaluation: Uses Generative AI to assess the quality of the candidate's responses and provide constructive feedback.
 Real-Time Emotion Tracking: Displays a live video feed with emotion statistics, highlighting dominant emotions during each question.
 Interactive User Interface: Streamlit-powered frontend for seamless interaction.
@@ -124,7 +124,7 @@ Streamlit: For building the interactive web interface.
 OpenCV: For real-time video processing and display.
 FER: For detecting facial emotions.
 SpeechRecognition: For converting speech to text.
-Google Gemini API: For generating intelligent interview questions and evaluating answers.
+plotach API: For generating intelligent interview questions and evaluating answers.
 
 
 🚀 Getting Started
@@ -132,7 +132,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Prerequisites
 Python 3.x: Ensure Python is installed on your system.
-Google Gemini API Key: Obtain an API key from Google Gemini.
+plotach API Key: Obtain an API key from plotach.
 Webcam: Required for real-time emotion detection.
 Installation
 Clone the repository:
@@ -148,10 +148,10 @@ Copy code
 pip install -r requirements.txt
 Set up the API key:
 
-Open the script and replace the placeholder with your Gemini API key:
+Open the script and replace the placeholder with your plotach API key:
 python
 Copy code
-GEMINI_API_KEY = "Replace with your Gemini API key"
+plotach_API_KEY = "Replace with your plotach API key"
 📖 How to Use
 Launch the application:
 
@@ -178,7 +178,7 @@ Check your microphone settings.
 Ensure you have a stable internet connection.
 Error with API key:
 
-Verify your Gemini API key and replace it if necessary.
+Verify your plotach API key and replace it if necessary.
 
 
 
