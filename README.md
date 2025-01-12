@@ -182,6 +182,14 @@ Verify your Gemini API key and replace it if necessary.
 
 
 
+https://github.com/user-attachments/assets/e57037b2-b60f-4088-a301-53e0ef102f4e
+
+
+
+
+https://github.com/user-attachments/assets/2d7d8b73-2a43-475b-ab7e-21b7ca67cbe7
+
+
 
 ##3
 PocketPal AI: Your Autonomous Data Engine ⚙️💡
