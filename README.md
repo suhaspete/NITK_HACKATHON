@@ -192,8 +192,8 @@ https://github.com/user-attachments/assets/2d7d8b73-2a43-475b-ab7e-21b7ca67cbe7
 
 
 ##3
-PocketPal AI: Your Autonomous Data Engine ⚙️💡
-PocketPal AI operates as a standalone intelligence core, designed for seamless execution on local systems. With its compact framework, PocketPal AI eliminates reliance on external servers, granting full operational independence across devices running iOS or Android.
+Team_Alpha_GPT: Your Autonomous Data Engine ⚙️💡
+Team_Alpha_GPT operates as a standalone intelligence core, designed for seamless execution on local systems. With its compact framework, Team_Alpha_GPT eliminates reliance on external servers, granting full operational independence across devices running iOS or Android.
 
 Core Matrix
 
